@@ -188,7 +188,7 @@ A key learning outcome was the shift from approaching the challenge primarily as
 
 ## Project Information
 
-**Course:** Innovation in Engineering  
+**Course:** 42504 Innovation in Engineering  
 **Institution:** Technical University of Denmark (DTU)  
 **Project:** The Nexø Roof Top PV — Empowering Bornholm's Energy Transition  
 **Team:** A04
