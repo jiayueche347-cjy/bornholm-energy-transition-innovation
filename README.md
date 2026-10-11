@@ -193,12 +193,3 @@ A key learning outcome was the shift from approaching the challenge primarily as
 **Semester:** Summer 2026  
 **Project:** The Nexø Roof Top PV — Empowering Bornholm's Energy Transition  
 **Team:** A04
-
-### Team Members
-
-- Else Marie Haurum Vittrup
-- Jiayue Che
-- Kani Ako Kaderi
-- Melek Büsra Özel
-- Nikolas Alexander Mumm
-- Prithvi Kumar Malarvizhi
